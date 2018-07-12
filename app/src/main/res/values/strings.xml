@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TempConvKT</string>
+    <string name="convert">convert</string>
+    <string name="enter_temp">Enter Temperature</string>
+    <string name="select_radio">Select F->C or C->F </string>
+    <string name="invalid_temp">Temperature below absolute zero</string>
+    <string name="hint">37.5</string>
+</resources>
